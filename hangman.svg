@@ -1,0 +1,6 @@
+svg.circle(x, y, r);
+svg.ellipse(x, y, rx, ry);
+svg.rect(x, y, width, height);
+svg.line(x1, y1, x2, y2);
+svg.text(x, y, "Ich male mit snap.svg!");
+svg.path("M200,250L300,300L400,250");
